@@ -4,7 +4,7 @@
 
 This is a modern mobile responsive landing page built from scratch using HTML and CSS and deployed using Netlify
 
-🔗 **Live preview** of the page is here [here](https://gifted-hodgkin-b4e5c2.netlify.app/).
+🔗 **Live preview** of the page is here [here](https://omnifood-aclay.netlify.app/).
 
 ### Outcome of this project:
 
